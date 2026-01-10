@@ -1,24 +1,6 @@
-### Alessandro Mangialardo - Il Mangia  
-#### 💿 15yo DJ, but also developer. I'm an ICT student, doing also Italian Cybersecurity Olympics
-
-### Projects  
-#### [<img src="https://raw.githubusercontent.com/il-mangia/MUSIC-WAVVER/main/Logo.png" height="50">](https://github.com/il-mangia/MUSIC-WAVVER)[<img src="https://raw.githubusercontent.com/il-mangia/Transcribeer/main/logo.png" height="50"> ](https://github.com/il-mangia/Transcribeer) [<img src="https://raw.githubusercontent.com/il-mangia/doublescreener.github.io/main/logo.png" height="50">](https://github.com/il-mangia/doublescreener.github.io)
-
-### Help me  
-#### [💵Donate me on PayPal](https://www.paypal.com/paypalme/ilmangia) | [▶️Follow me on YouTube](https://www.youtube.com/@ilmangia-official)
-
-
-<!--
-**il-mangia/il-mangia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+💿 15yo DJ, but also developer. I'm an ICT student, doing also Italian Cybersecurity Olympics  <br><br>
+<a href="https://github.com/il-mangia/MUSIC-WAVVER"><img src="https://raw.githubusercontent.com/il-mangia/MUSIC-WAVVER/main/Banner.png" height="70"></a>
+<a href="https://github.com/il-mangia/Transcribeer"><img src="https://raw.githubusercontent.com/il-mangia/Transcribeer/main/Banner.png" height="70"></a>
+<a href="https://github.com/il-mangia/doublescreener.github.io"><img src="https://raw.githubusercontent.com/il-mangia/doublescreener.github.io/main/logo.png" height="70"></a>
+</div>
