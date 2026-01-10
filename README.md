@@ -1,4 +1,11 @@
-## Hi there 👋
+### Alessandro Mangialardo - Il Mangia
+#### 💿 15yo DJ, but also developer. I'm an ICT student, doing also Italian Cybersecurity Olympics
+
+### Projects
+#### [🎵 Music Wavver](https://github.com/il-mangia/MUSIC-WAVVER) · [📝 Transcribeer](https://github.com/il-mangia/Transcribeer) · 🖥️ [DoubleScreener](https://github.com/il-mangia/doublescreener.github.io)
+### Help me
+#### [💵Donate me on PayPal](https://www.paypal.com/paypalme/ilmangia) | [▶️Follow me on YouTube](https://www.youtube.com/@ilmangia-official)
+
 
 <!--
 **il-mangia/il-mangia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
