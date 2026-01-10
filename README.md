@@ -2,7 +2,7 @@
 #### 💿 15yo DJ, but also developer. I'm an ICT student, doing also Italian Cybersecurity Olympics
 
 ### Projects  
-#### [<img src="https://raw.githubusercontent.com/il-mangia/MUSIC-WAVVER/main/Logo.png" height="18"> Music Wavver](https://github.com/il-mangia/MUSIC-WAVVER) · [<img src="https://raw.githubusercontent.com/il-mangia/Transcribeer/main/logo.png" height="18"> Transcribeer](https://github.com/il-mangia/Transcribeer) · [<img src="https://raw.githubusercontent.com/il-mangia/doublescreener.github.io/main/logo.png" height="18"> DoubleScreener](https://github.com/il-mangia/doublescreener.github.io)
+#### [<img src="https://raw.githubusercontent.com/il-mangia/MUSIC-WAVVER/main/Logo.png" height="50">](https://github.com/il-mangia/MUSIC-WAVVER)[<img src="https://raw.githubusercontent.com/il-mangia/Transcribeer/main/logo.png" height="50"> ](https://github.com/il-mangia/Transcribeer) [<img src="https://raw.githubusercontent.com/il-mangia/doublescreener.github.io/main/logo.png" height="50">](https://github.com/il-mangia/doublescreener.github.io)
 
 ### Help me  
 #### [💵Donate me on PayPal](https://www.paypal.com/paypalme/ilmangia) | [▶️Follow me on YouTube](https://www.youtube.com/@ilmangia-official)
