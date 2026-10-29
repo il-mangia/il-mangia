@@ -3,4 +3,5 @@
 <a href="https://github.com/il-mangia/Transcribeer"><img src="https://raw.githubusercontent.com/il-mangia/Transcribeer/main/Banner.png" height="70"></a>
 <a href="https://github.com/il-mangia/doublescreener.github.io"><img src="https://raw.githubusercontent.com/il-mangia/doublescreener.github.io/main/logo.png" height="70"></a>
 <a href="https://github.com/il-mangia/Fosk"><img src="https://raw.githubusercontent.com/il-mangia/Fosk/main/frontend/Logo.png" height="70"></a>
+<a href="https://github.com/il-mangia/Price3D"><img src="https://raw.githubusercontent.com/il-mangia/Price3D/main/Logo.png" height="70"></a>
 </div>
